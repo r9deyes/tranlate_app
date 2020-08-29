@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+
+*.sqlite3
+
+.Python
+build/
+develop-eggs/
+dist/
+*.egg-info/
