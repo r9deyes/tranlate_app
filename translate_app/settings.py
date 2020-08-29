@@ -128,3 +128,10 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIR = [
     STATIC_ROOT,
 ]
+
+
+# TRANSLATE_API_KEYS
+TRANSLATE_API_KEYS = {
+    'folder_id':    '',
+    'yandex_OAuth': '',
+}
